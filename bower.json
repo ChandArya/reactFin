@@ -1,10 +1,10 @@
 {
-  "name": "material-dashboard-react",
-  "homepage": "https://github.com/creativetimofficial/material-dashboard-react",
+  "name": "fintinity",
+  "homepage": "www.fintinity.com",
   "authors": [
-    "creative-tim"
+    "fintinity"
   ],
-  "description": "A Badass Material-UI Kit based on Material Design",
+  "description": "Fintinity wesite",
   "main": "public/index.html",
   "keywords": [
     "material",
@@ -15,7 +15,7 @@
     "google",
     "twitter"
   ],
-  "license": "Creative TIM License",
+  "license": "fintinity",
   "ignore": [
     "**/.*",
     "node_modules",
