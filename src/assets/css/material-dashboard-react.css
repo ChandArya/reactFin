@@ -34,7 +34,7 @@ h1 {
   -moz-background-size: cover;
   -o-background-size: cover;
   -ms-background-size: cover;
-  min-height: 400px;
+  min-height: 380px;
 }
 .ct-grid {
   stroke: rgba(255, 255, 255, 0.2);
@@ -117,9 +117,10 @@ label.icon-left-w3pvt span {
 /* //vertical tabs */
 
 /* form style */
-.sub-main-w3 form {
+.sub-main-w3 section {
   background: #ffff;
   padding: 2em;
+  height: 317px;
 }
 
 .legend {
