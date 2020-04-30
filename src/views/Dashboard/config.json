@@ -1,0 +1,9 @@
+{
+    "userID": "D0251595",
+    "password": "Sv@12345",
+    "publicKey": "10c7cacca2106432",
+    "source": "WEBAPI",
+    "url": "http://xts.nirmalbang.com:3002/",
+    "publishFormat": "JSON",
+    "broadcastMode": "Full"
+}

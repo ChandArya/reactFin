@@ -128,6 +128,7 @@ export default function Admin({ ...rest }) {
           fixedClasses={fixedClasses}
         />
       </div>
+        
     </div>
   );
 }
